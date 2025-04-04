@@ -1,4 +1,4 @@
-Here's a README file for your **CMSC678 Final Report** project:  
+**CMSC678 Final Report** project:  
 
 ---
 
